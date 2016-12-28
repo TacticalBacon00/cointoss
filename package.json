@@ -1,0 +1,15 @@
+{
+  "name": "cointoss",
+  "version": "1.0.0",
+  "description": "Flips a coin and returns heads or tails",
+  "main": "cointoss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tacticalbacon00"
+  },
+  "author": "TacticalBacon00",
+  "license": "ISC"
+}
